@@ -1,0 +1,4 @@
+python-doenv
+matplotlib
+numpy 
+pymongo 
