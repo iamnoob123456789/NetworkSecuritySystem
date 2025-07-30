@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: NetworkSecuritySystem
+Version: 0.0.1
+Author: Akula Shreyas
+Author-email: shreyasakula97@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
